@@ -4,12 +4,11 @@
   "description": "",
   "main": "1-intro.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "khancuts",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.6.0",
     "lodash": "^4.17.21"
   }
 }
